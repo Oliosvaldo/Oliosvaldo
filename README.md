@@ -5,7 +5,7 @@
 Me chamo Oliosvaldo Alves Almeida, sou desenvolvedor web apaixonado por tecnologia e resolução de problemas. Tenho experiência com desenvolvimento front-end e back-end, trabalhando com HTML, CSS, JavaScript, React e SQL. Atualmente, estou expandindo meus conhecimentos para a área de Engenharia de Dados, buscando unir desenvolvimento e análise para criar soluções ainda mais poderosas.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/oliosvaldo-almeida-48a52137a">
+    <a href="www.linkedin.com/in/oliosvaldo-almeida-48a52137a">
         <img 
             alt="LinkedIn" 
             title="Me conecte no LinkedIn" 
