@@ -9,7 +9,7 @@ Me chamo Oliosvaldo Alves Almeida, sou desenvolvedor web apaixonado por tecnolog
         <img 
             alt="LinkedIn" 
             title="Me conecte no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+            src="www.linkedin.com/in/oliosvaldo-almeida-48a52137a"
         />
     </a>
     <a href="https://github.com/SEU_USERNAME?tab=repositories&sort=stargazers">
