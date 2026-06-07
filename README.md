@@ -1,29 +1,22 @@
-# 👨🏻‍💻 Oliosvaldo Alves Almeida
+#  Oliosvaldo Alves Almeida
 
-**`Desenvolvedor Web | Futuro Engenheiro de Dados`**
+**`Desenvolvedor Web | Entusiasta de Ciência de Dados`**
 
-Me chamo Oliosvaldo Alves Almeida, sou desenvolvedor web apaixonado por tecnologia e resolução de problemas. Tenho experiência com desenvolvimento front-end e back-end, trabalhando com HTML, CSS, JavaScript, React e SQL. Atualmente, estou expandindo meus conhecimentos para a área de Engenharia de Dados, buscando unir desenvolvimento e análise para criar soluções ainda mais poderosas.
+Me chamo Oliosvaldo Alves Almeida, sou desenvolvedor web apaixonado por tecnologia e resolução de problemas. Tenho experiência com desenvolvimento front-end e back-end, trabalhando com HTML, CSS, JavaScript, React e SQL. Atualmente, estou expandindo meus conhecimentos para a área de Ciência de Dados, buscando unir desenvolvimento e análise para criar soluções ainda mais poderosas.
 
 <p align="left">
-    <a href="www.linkedin.com/in/oliosvaldo-almeida-48a52137a">
+    <a href="https://www.linkedin.com/in/oliosvaldo-almeida-48a52137a" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Me conecte no LinkedIn" 
-            src="www.linkedin.com/in/oliosvaldo-almeida-48a52137a"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU_USERNAME?tab=repositories&sort=stargazers">
+    <a href="mailto:oliosvaldo48@gmail.com" target="_blank">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USERNAME?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SEU_USERNAME?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USERNAME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Gmail" 
+            title="Envie um e-mail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
 </p>
@@ -56,7 +49,14 @@ Me chamo Oliosvaldo Alves Almeida, sou desenvolvedor web apaixonado por tecnolog
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
 <img 
     align="left" 
     alt="SQL"
@@ -85,21 +85,3 @@ Me chamo Oliosvaldo Alves Almeida, sou desenvolvedor web apaixonado por tecnolog
 <br/>
 <br/>
 
-###  Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
